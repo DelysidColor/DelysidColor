@@ -1,6 +1,6 @@
 <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 , 𝙄'𝙢 <a href="https://www.linkedin.com/in/artem-batushev-67b711288/" target="_blank">𝘼𝙧𝙩𝙚𝙢</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Vue+Frontend+Developer)](https://git.io/typing-svg)
+<h3 align="center">Vue Frontend Developer</h3>
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
 
 <!--
