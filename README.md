@@ -23,7 +23,7 @@ I am a Vue Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :seedling: In my free time, I solve problems on CodeWars and learning something new.
 
-- :zap: Looking for a Job.
+- :zap: Currently employed.
 
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/delycolor)
  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-batushev-67b711288/)
